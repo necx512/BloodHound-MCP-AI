@@ -4,7 +4,7 @@
 
 ## Model Control Panel (MCP) for BloodHound
 
-BloodHound-MCP is a powerful integration that brings the capabilities of Model Control Panel (MCP) to BloodHound, the industry-standard tool for Active Directory security analysis. This integration allows you to leverage Claude AI to analyze BloodHound data using natural language, making complex Active Directory attack path analysis accessible to everyone.
+BloodHound-MCP is a powerful integration that brings the capabilities of Model Context Procotol (MCP) to BloodHound, the industry-standard tool for Active Directory security analysis. This integration allows you to leverage Claude AI to analyze BloodHound data using natural language, making complex Active Directory attack path analysis accessible to everyone.
 
 > 🥇 **First-Ever BloodHound AI Integration!**  
 > This is the first integration that connects BloodHound with AI through MCP, [originally announced here](https://www.linkedin.com/posts/mor-david-cyber_bloodhound-ai-cybersec-activity-7310921541213470721-N390).
@@ -13,7 +13,7 @@ BloodHound-MCP is a powerful integration that brings the capabilities of Model C
 
 BloodHound-MCP combines the power of:
 - **BloodHound**: Industry-standard tool for visualizing and analyzing Active Directory attack paths
-- **Model Control Panel (MCP)**: Claude AI's framework for creating custom AI tools
+- **Model Control Panel (MCP)**: An open protocol developed by Anthropic that enables standardized integration between language models (LLMs) and external tools or data sources
 - **Neo4j**: Graph database used by BloodHound to store AD relationship data
 
 With over 75 specialized tools based on the original BloodHound CE Cypher queries, BloodHound-MCP allows security professionals to:

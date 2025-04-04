@@ -13,7 +13,7 @@ BloodHound-MCP is a powerful integration that brings the capabilities of Model C
 
 BloodHound-MCP combines the power of:
 - **BloodHound**: Industry-standard tool for visualizing and analyzing Active Directory attack paths
-- **Model Control Panel (MCP)**: An open protocol developed by Anthropic that enables standardized integration between language models (LLMs) and external tools or data sources
+- **Model Context Protocol (MCP)**: An open protocol for creating custom AI tools, compatible with various AI models
 - **Neo4j**: Graph database used by BloodHound to store AD relationship data
 
 With over 75 specialized tools based on the original BloodHound CE Cypher queries, BloodHound-MCP allows security professionals to:

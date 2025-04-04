@@ -4,7 +4,7 @@
 
 ## Model Context Protocol (MCP) Server for BloodHound
 
-BloodHound-MCP is a powerful integration that brings the capabilities of Model Context Procotol (MCP) Server to BloodHound, the industry-standard tool for Active Directory security analysis. This integration allows you to leverage Claude AI to analyze BloodHound data using natural language, making complex Active Directory attack path analysis accessible to everyone.
+BloodHound-MCP is a powerful integration that brings the capabilities of Model Context Procotol (MCP) Server to BloodHound, the industry-standard tool for Active Directory security analysis. This integration allows you to analyze BloodHound data using natural language, making complex Active Directory attack path analysis accessible to everyone.
 
 > 🥇 **First-Ever BloodHound AI Integration!**  
 > This is the first integration that connects BloodHound with AI through MCP, [originally announced here](https://www.linkedin.com/posts/mor-david-cyber_bloodhound-ai-cybersec-activity-7310921541213470721-N390).
@@ -45,7 +45,7 @@ Join our Telegram channel for updates, tips, and discussion:
 - BloodHound 4.x+ with data collected from an Active Directory environment
 - Neo4j database with BloodHound data loaded
 - Python 3.8 or higher
-- Claude API access (via Anthropic)
+- MCP Client
 
 ## 🔧 Installation
 
@@ -77,7 +77,7 @@ Join our Telegram channel for updates, tips, and discussion:
    ```
 ## 🚀 Usage
 
-Example queries you can ask Claude through the MCP:
+Example queries you can ask through the MCP:
 
 - "Show me all paths from kerberoastable users to Domain Admins"
 - "Find computers where Domain Users have local admin rights"
@@ -101,9 +101,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - The BloodHound team for creating an amazing Active Directory security tool
-- Anthropic for developing Claude and the Model Control Panel framework
 - The security community for continuously advancing AD security practices
 
 ---
 
-*Note: This is not an official Anthropic product. BloodHound-MCP is a community-driven integration between BloodHound and Claude's Model Control Panel.* 
+*Note: This is not an official Anthropic product. BloodHound-MCP is a community-driven integration between BloodHound and MCP.* 

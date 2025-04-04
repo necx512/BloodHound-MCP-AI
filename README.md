@@ -2,9 +2,9 @@
 
 ![BloodHound-MCP](/images/BloodHound-MCP-Banner.png)
 
-## Model Control Panel (MCP) for BloodHound
+## Model Context Protocol (MCP) Server for BloodHound
 
-BloodHound-MCP is a powerful integration that brings the capabilities of Model Context Procotol (MCP) to BloodHound, the industry-standard tool for Active Directory security analysis. This integration allows you to leverage Claude AI to analyze BloodHound data using natural language, making complex Active Directory attack path analysis accessible to everyone.
+BloodHound-MCP is a powerful integration that brings the capabilities of Model Context Procotol (MCP) Server to BloodHound, the industry-standard tool for Active Directory security analysis. This integration allows you to leverage Claude AI to analyze BloodHound data using natural language, making complex Active Directory attack path analysis accessible to everyone.
 
 > 🥇 **First-Ever BloodHound AI Integration!**  
 > This is the first integration that connects BloodHound with AI through MCP, [originally announced here](https://www.linkedin.com/posts/mor-david-cyber_bloodhound-ai-cybersec-activity-7310921541213470721-N390).

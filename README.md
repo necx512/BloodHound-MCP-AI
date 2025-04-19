@@ -27,6 +27,10 @@ With over 75 specialized tools based on the original BloodHound CE Cypher querie
 Join our Telegram channel for updates, tips, and discussion:
 - **Telegram**: [root_sec](https://t.me/root_sec)
 
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MorDavid/BloodHound-MCP-AI&type=Date)](https://www.star-history.com/#MorDavid/BloodHound-MCP-AI&Date)
+
 ## ✨ Features
 
 - **Natural Language Interface**: Query BloodHound data using plain English

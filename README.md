@@ -107,6 +107,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The BloodHound team for creating an amazing Active Directory security tool
 - The security community for continuously advancing AD security practices
 
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/09d13f50-8965-4ebf-b4bf-d6bb98e8f092)
+
 ---
 
 *Note: This is not an official Anthropic product. BloodHound-MCP is a community-driven integration between BloodHound and MCP.* 
